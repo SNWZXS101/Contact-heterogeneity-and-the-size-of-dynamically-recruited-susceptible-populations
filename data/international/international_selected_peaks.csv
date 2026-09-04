@@ -1,0 +1,43 @@
+country,peak_date,variant,wave_id
+United States,2020-04-07,Ancestral,US01
+United States,2020-07-21,Ancestral,US02
+United States,2021-01-08,Ancestral/Alpha transition,US03
+United States,2021-09-02,Delta,US04
+United States,2022-01-12,Omicron BA.1,US05
+United States,2022-07-14,Omicron BA.5,US06
+United Kingdom,2020-04-19,Ancestral,UK01
+United Kingdom,2020-11-13,Ancestral/Alpha emergence,UK02
+United Kingdom,2021-01-06,Alpha,UK03
+United Kingdom,2021-07-18,Delta,UK04
+United Kingdom,2021-10-20,Delta,UK05
+United Kingdom,2022-01-29,Omicron BA.1,UK06
+United Kingdom,2022-03-18,Omicron BA.2,UK07
+United Kingdom,2022-07-15,Omicron BA.5,UK08
+Japan,2020-04-12,Ancestral,JP01
+Japan,2020-08-06,Ancestral,JP02
+Japan,2021-01-08,Ancestral,JP03
+Japan,2021-05-11,Alpha,JP04
+Japan,2021-08-22,Delta,JP05
+Japan,2022-02-06,Omicron BA.1,JP06
+Japan,2022-08-21,Omicron BA.5,JP07
+South Korea,2020-03-01,Ancestral,KR01
+South Korea,2020-08-24,Ancestral,KR02
+South Korea,2020-12-22,Ancestral,KR03
+South Korea,2021-09-27,Delta,KR04
+South Korea,2021-12-14,Delta,KR05
+South Korea,2022-03-14,Omicron BA.1/BA.2,KR06
+South Korea,2022-08-19,Omicron BA.5,KR07
+South Korea,2022-12-19,Omicron descendants,KR08
+Italy,2020-03-23,Ancestral,IT01
+Italy,2020-11-13,Ancestral,IT02
+Italy,2021-03-19,Alpha,IT03
+Italy,2021-08-24,Delta,IT04
+Italy,2022-01-11,Omicron BA.1,IT05
+Italy,2022-03-21,Omicron BA.2,IT06
+Italy,2022-07-11,Omicron BA.5,IT07
+Italy,2022-10-10,Omicron BA.5/BQ.1,IT08
+South Africa,2020-07-16,Ancestral,ZA01
+South Africa,2021-01-08,Beta,ZA02
+South Africa,2021-07-05,Delta,ZA03
+South Africa,2021-12-14,Omicron BA.1,ZA04
+South Africa,2022-05-08,Omicron BA.4/BA.5,ZA05
